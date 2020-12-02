@@ -1,0 +1,8 @@
+{
+    "js/dbizs-template.min.js": [
+        "public/js/template/main-sidebar-dbizs.html"
+    ],
+    "css/dbizs.min.css": [
+        "public/css/custom.css"
+    ]      
+}

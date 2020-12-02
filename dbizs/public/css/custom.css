@@ -1,0 +1,19 @@
+#page-desktop{ background-color:#FFFFFF !important}
+.main-header .logo .logo-lg{
+    background: #2469a2 url(/assets/dbizs/images/logo_dbizs.png) center no-repeat; 
+    background-size: auto 40px;
+    text-indent:-99em;
+}
+.main-header .logo .logo-mini{
+    background: #2469a2 url(/assets/dbizs/images/logo_dbizs_mini.png) center no-repeat; 
+    background-size: 38px auto;
+    text-indent:-99em;
+}
+.skin-blue .main-header .logo:hover,
+.skin-blue .main-header .logo,
+.skin-blue .main-header .navbar{
+    background-color: #2469a2;
+}
+
+a[data-type="help"] { display: none}
+
